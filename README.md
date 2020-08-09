@@ -2,7 +2,7 @@
 The android application include interface show you the github repositories details on scrolling list <br/>
 The Front-End Using the Material Design library contains : <br/>
  1- BottomNavigationView component to navigated between the Trending and Setting <br/>
- 2- RecyclerView to list the items (repository) on each row whith Layout... <br/>
+ 2- RecyclerView to list the items (repository) on each row with Layout... <br/>
  ...<br/>
 The Back-end : call the api rest github repositories request using <br/>
  1- The Volley library to create the Request Queue  <br/>
